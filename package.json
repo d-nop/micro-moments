@@ -1,7 +1,7 @@
 {
-  "name": "mern",
+  "name": "final-project",
   "version": "1.0.0",
-  "description": "Mern Demo",
+  "description": "Micro Moments",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
@@ -10,7 +10,7 @@
     "build": "node scripts/build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Team YODAS",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.5.0",
