@@ -17,3 +17,18 @@ app.get("*", function(req, res) {
 app.listen(PORT, function() {
   console.log(`🌎 ==> Server now on port ${PORT}!`);
 });
+
+
+app.get("/media", function(req, res){
+
+
+});
+
+app.get("/media/:id", function(req, res){
+
+});
+
+app.post("/media", function(req, res){
+
+});
+
